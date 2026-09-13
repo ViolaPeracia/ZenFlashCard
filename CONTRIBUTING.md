@@ -19,7 +19,7 @@ Thank you for your interest in ZenFlashCards! Below are the guidelines for contr
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/githubuser2777/ZenFlashCard.git
+git clone https://github.com/ViolaPeracia/ZenFlashCard.git
 cd ZenFlashCard
 
 # 2. Install dependencies

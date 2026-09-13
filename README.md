@@ -286,7 +286,7 @@ Rules:
 
 ```bash
 # Clone repository
-git clone https://github.com/githubuser2777/ZenFlashCard.git
+git clone https://github.com/ViolaPeracia/ZenFlashCard.git
 cd ZenFlashCard
 
 # Install dependencies
@@ -390,5 +390,5 @@ MIT License — Copyright (c) 2026 Hung_Vux
 ---
 
 <p align="center">
-  Made with 🧘 by <a href="https://github.com/githubuser2777">Hung_Vux</a>
+  Made with 🧘 by <a href="https://github.com/ViolaPeracia">Hung_Vux</a>
 </p>
